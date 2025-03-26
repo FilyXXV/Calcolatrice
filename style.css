@@ -30,6 +30,7 @@ button{
     text-align: left;
     border: none;
     background-color: gray;
+    color: white;
 }
 
 body{
@@ -38,6 +39,7 @@ body{
     display: flex;
     justify-content: center;
     height: 100vh;
+    background-color: rgb(22, 22, 22);
 }
 
 button:hover{
